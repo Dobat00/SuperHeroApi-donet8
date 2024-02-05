@@ -1,0 +1,6 @@
+@SuperHeroApi_donet8_HostAddress = http://localhost:5168
+
+GET {{SuperHeroApi_donet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
